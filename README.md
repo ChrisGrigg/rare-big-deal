@@ -173,7 +173,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [CalmTab](https://addons.mozilla.org/en-GB/firefox/addon/calmtab/) | Clean Firefox start page with clocks, notes, quotes, search and tab workspaces | 33 percent off first year with code blackfriday | 2025-11-29 |
 
 
-### Productivity & AI
+###  & AI
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
@@ -389,6 +389,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡️ | [ClipboardAI](https://www.clipboard-ai.com) | Instantly run AI prompts with shortcuts, anywhere — translate, fix grammar, improve text, and more. | **$20 OFF** (launch offer) | 2025-12-31 |
 | 🎯 | [Focusmo](https://www.focusmo.app/?utm_source=rare-big-deal) | Focusmo helps you log your day as you go — so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF** Lifetime Updates. Pay once. (code automatically applied) | 2025-12-1 |
 | 📌 | [SupaSidebar](https://www.supasidebar.com/?utm_source=rare-big-deal) | Arc-like sidebar for all browsers. Save links, files and folders a click away. | **50% OFF** Lifetime Updates. Pay once. **BLACKFRIDAY50** | 2025-12-1 |
+| 🎯  | [Cleanest AI](https://www.cleanest.ai) | Tame your Chat Chaos - Search through all your ChatGPT chats and LinkedIn posts. Organize them into custom folders. | **40% OFF** All plans (code automatically applied) | 2025-11-24 |
 
 
 [⬆️ All categories](#table-of-contents)
